@@ -1,1 +1,1 @@
-I love Ruby and JavaScript! YEah!
+I love Ruby and JavaScript! Change in new_rules
